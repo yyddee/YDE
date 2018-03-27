@@ -10,5 +10,6 @@
 </head>
 <body>
 	git 연습 중!
+	연습2
 </body>
 </html>
